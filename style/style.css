@@ -1,0 +1,13 @@
+.container h1 {
+    font-weight: 100 !important;
+    margin: 40px 0 !important;
+}
+
+.container h6 {
+    font-weight: 300 !important;
+    margin: 20px 0 !important;
+}
+
+.container p {
+    white-space: pre-wrap;
+}
